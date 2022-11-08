@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arya Pasha
 - 👀 I’m interested in Data Processing
 - 🌱 I’m currently learning Data Analytics(Data Analyst & Data Science) and Machine Learning
-- 💞️ I’m looking to collaborate on Bootcamp any IT programming
+- 💞️ I’m looking to collaborate on Bootcamp or any IT training program
 - 📫 How to reach me @Instagram : @aryapashaa
 
 <!---
