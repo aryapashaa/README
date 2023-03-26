@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya Pasha
-- 👀 I’m interested in Software Developing & Data Processing
+- 👀 I’m interested in Software Development & Data Processing
 - 📫 How to reach me @Instagram : @aryapashaa
 
 <!---
